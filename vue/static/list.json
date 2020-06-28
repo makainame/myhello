@@ -1,0 +1,54 @@
+[
+    
+    {
+    "id": 1, 
+    "checked": false, 
+    "name": "烤肉拌饭", 
+    "price": "10", 
+    "number": 1, 
+    "hot":180,
+    "ku":22222,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 2, 
+    "checked": false, 
+    "name": "黄焖鸡米饭", 
+    "price": "20", 
+    "number": 1, 
+    "hot":1000,
+    "ku":2222,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 3, 
+    "checked": false, 
+    "name": "牛肉拉面日式", 
+    "price": "40", 
+    "number": 1, 
+    "hot":130,
+    "ku":22,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 4, 
+    "checked": false, 
+    "name": "波罗蜜包",
+    "price": "25", 
+    "number": 1, 
+    "hot":120,
+    "ku":2,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 5, 
+    "checked": false, 
+    "name": "红烧茄子",
+    "price": "25", 
+    "number": 1, 
+    "hot":120,
+    "ku":2,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+}
+
+]

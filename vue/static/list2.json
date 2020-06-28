@@ -1,0 +1,54 @@
+[
+    
+    {
+    "id": 1, 
+    "checked": false, 
+    "name": "德克士", 
+    "price": "10", 
+    "number": 1, 
+    "hot":180,
+    "ku":22222,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 2, 
+    "checked": false, 
+    "name": "麦当劳", 
+    "price": "20", 
+    "number": 1, 
+    "hot":1000,
+    "ku":2222,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 3, 
+    "checked": false, 
+    "name": "肯德基", 
+    "price": "40", 
+    "number": 1, 
+    "hot":130,
+    "ku":22,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 4, 
+    "checked": false, 
+    "name": "乡村堡",
+    "price": "25", 
+    "number": 1, 
+    "hot":120,
+    "ku":2,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+},
+{
+    "id": 5, 
+    "checked": false, 
+    "name": "汉堡包",
+    "price": "25", 
+    "number": 1, 
+    "hot":120,
+    "ku":2,
+    "img": "https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2454425123,1615136153&fm=26&gp=0.jpg"
+}
+
+]

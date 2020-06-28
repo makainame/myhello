@@ -1,0 +1,60 @@
+﻿ /* 公共样式 */
+  * {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+#app {
+  padding: 0;
+  margin: 0;
+  /* background: turquoise; */
+  height: 100%;
+  display: flex;
+}
+html,
+body {
+  height: 100%;
+}
+  /* 右划效果 */
+.vr-enter{
+    transform: translateX(100%);
+}
+.vr-enter-to{
+    transform: translateX(0);
+}
+.vr-enter-active{
+    transition: all 1s;
+}
+.vr-leave{
+     transform: translateX(0);
+}
+.vr-leave-to{
+    transform: translateX(-100%);
+}
+.vr-leave-active{
+     transition: all 1s;
+}
+/* 作画效果 */
+.vl-enter{
+    transform: translateX(-100%);
+}
+.vl-enter-to{
+    transform: translateX(0%);
+}
+.vl-enter-active{
+    transition: all 1s;
+}
+.vl-leave{
+     transform: translateX(100%);
+}
+.vl-leave-to{
+    transform: translateX(0);
+}
+.vl-leave-active{
+    transition: all 1s;
+}
+.view{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
